@@ -1,0 +1,12 @@
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\bin\Debug\netstandard2.1\RedScrap.deps.json
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\bin\Debug\netstandard2.1\RedScrap.dll
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\bin\Debug\netstandard2.1\RedScrap.pdb
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.csproj.AssemblyReference.cache
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.AssemblyInfoInputs.cache
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.AssemblyInfo.cs
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.csproj.CoreCompileInputs.cache
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.sourcelink.json
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.dll
+C:\Users\redd\Documents\GitHub\RedScrap\RedScrap\obj\Debug\netstandard2.1\RedScrap.pdb
